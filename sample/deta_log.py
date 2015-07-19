@@ -1,4 +1,4 @@
-import Logger
+from deta import Logger
 
 conf = {
 	'logfile': 'sample.log',
